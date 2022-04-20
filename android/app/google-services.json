@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566010979135",
+    "project_id": "brave-operand-344907",
+    "storage_bucket": "brave-operand-344907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566010979135:android:b9c873d13fe98d709f298a",
+        "android_client_info": {
+          "package_name": "com.uberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566010979135-t3760tgrlvejcq3g42mgfakgq34skgt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsrYAnkpCaZQSyRnZKu_HQft49g0FM8xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566010979135-t3760tgrlvejcq3g42mgfakgq34skgt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
